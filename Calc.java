@@ -8,7 +8,11 @@ System.out.println("1-multiplication");
 System.out.println("1-divison");
 System.out.println("1-modulation");
 
-
+Scanner ob=new Scanner(System.in);
+  System.out.println("Enter Number");
+  int num=ob.nextInt();
+  
+  System.out.println(num);
 
 
 
